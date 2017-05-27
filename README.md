@@ -14,9 +14,9 @@ To run the app, please create an instance of a Cloudant NoSQL Database, a Conver
 
 You will also be provided with step-by-step instructions on how to deploy the library app to Bluemix.
 
-**Watch the video on YouTube for further information about this application (note that the video refers to an older version of the demo app [https://github.com/florae123/Libraryui](https://github.com/florae123/Libraryui)): [https://www.youtube.com/watch?v=NqF2wIMBqBw](https://www.youtube.com/watch?v=NqF2wIMBqBw).**
+**Watch the video on YouTube for further information about this application. Note that the video refers to an older version of the demo app [https://github.com/florae123/LibraryApp](https://github.com/florae123/LibraryApp): [https://www.youtube.com/watch?v=NqF2wIMBqBw](https://www.youtube.com/watch?v=NqF2wIMBqBw).**
 
-![WebApp](./images/Webapp.png)
+![](./images/WebInterface.png)
 
 ## Architecture
 

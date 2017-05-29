@@ -6,7 +6,7 @@ It includes the Watson Conversation Service as well as the TextToSpeech Service.
 
 To run the app, please create an instance of a Cloudant NoSQL Database, a Conversation Service, a TextToSpeech Service and an App ID service.
 
-**View a running sample of the app [here](http://libraryui-demo-1.mybluemix.net/).**
+**View a running sample of the app [here](https://libraryui-demo-1.mybluemix.net/).**
 
 **Find the Java backend in this repository: [https://github.com/florae123/library-server-java-user-adjusted](https://github.com/florae123/library-server-java-user-adjusted).**
 
@@ -16,7 +16,7 @@ You will also be provided with step-by-step instructions on how to deploy the li
 
 **Watch the video on YouTube for further information about this application. Note that the video refers to an older version of the demo app [https://github.com/florae123/LibraryApp](https://github.com/florae123/LibraryApp): [https://www.youtube.com/watch?v=NqF2wIMBqBw](https://www.youtube.com/watch?v=NqF2wIMBqBw).**
 
-![](./images/WebInterface.png)
+![](./images/webinterface.png)
 
 ## Architecture
 

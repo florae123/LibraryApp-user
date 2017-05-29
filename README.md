@@ -16,7 +16,7 @@ You will also be provided with step-by-step instructions on how to deploy the li
 
 **Watch the video on YouTube for further information about this application. Note that the video refers to an older version of the demo app [https://github.com/florae123/LibraryApp](https://github.com/florae123/LibraryApp): [https://www.youtube.com/watch?v=NqF2wIMBqBw](https://www.youtube.com/watch?v=NqF2wIMBqBw).**
 
-![](./images/webinterface.png)
+![](./images/WebInterface.png)
 
 ## Architecture
 
